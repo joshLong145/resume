@@ -40,7 +40,7 @@ module.exports = {
         letter: "72rem",
       },
       height: {
-        letter: "86.9375rem",
+        letter: "98.9375rem",
         "letter-col": "71.625rem",
         "letter-col-full": "77.9375rem",
       },
